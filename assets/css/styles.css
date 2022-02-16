@@ -9,10 +9,19 @@ button {
   display: block;
   padding: 1rem;
   margin: 2rem;
+  font-size: 15px;
 }
 
 img {
   display: block;
   width: 450px;
   margin: auto;
+}
+
+label {
+  font-size: 20px;
+
+}
+legend {
+  font-size: 30px;
 }

@@ -8,8 +8,6 @@
 
 - Photo of Fish by [Nothing Ahead](https://www.pexels.com/photo/tiny-fish-with-orange-head-swimming-underwater-7188173/) from Pexels
 
-- Photo of White Rabbit by [Anna Shvets](https://www.pexels.com/photo/white-rabbit-wearing-yellow-eyeglasses-4588065/) from Pexels
-
 - [How to Change Image Source Using Javascript](https://www.youtube.com/watch?v=pjm1jKPSGck) by Codebase
 ## February 15, 2022
 
